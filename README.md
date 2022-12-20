@@ -28,7 +28,7 @@ def somefunc_view(): #any view , apiview , view etc
 
 ## Installation
 
-```https://pypi.org/manage/project/django-sql-query-to-excel/release/1.0.0/
+- https://pypi.org/manage/project/django-sql-query-to-excel/release/1.0.0/
 
 ```shell
 $ pip install django-sql-query-to-excel
