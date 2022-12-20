@@ -1,4 +1,4 @@
-# python raw sql to excel using XlsrWriter
+# python raw sql to excel using XlxsWriter
 
 
 
